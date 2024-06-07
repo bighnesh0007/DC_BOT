@@ -11,8 +11,8 @@ const client = new Client({
         1 << 15  // MESSAGE_CONTENTS
     ]
 });
-const API_KEY = "d2cbae8a153b83cb8a2b8e0481ebaadb";
-const token = "MTIzNTI4ODQ0ODU5Njk3MTU5Mg.Gh4U2F.uvTPqBlSFvr_lHs-GCD0nZ0R7NGhSiFABEPR8c";
+const API_KEY = "API KEY";
+const token = "WEATHER TOKEN";
 
 const MONGODB_URI = "mongodb://localhost:27017/weather"; 
 let db;
